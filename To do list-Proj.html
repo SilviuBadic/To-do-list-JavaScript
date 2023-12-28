@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="to to.css" rel="stylesheet">  <title>Arrays</title>
+</head>
+<body>
+
+  <div class="main_list">
+    <p class="todo_text">To Do List</p>
+    <div class="labels">
+      <p></p>
+      <p class="start_t">Start date</p>
+      <p class="due_t">Due date</p>
+  
+    </div>
+    <div class="first_box">
+      <input class="todo" 
+      onkeydown="
+      newKeyDown (event);
+      "
+      
+      type="text" placeholder="Todo">
+      <input class="datetime" type="date">
+      <input class="datetime2" type="date">
+      <button class="main_button" onclick="
+      newList();
+      " class="addB">Add</button>
+    </div>
+    
+  
+  
+    <div class="js-todo-list todo-grid">
+    </div>
+    
+  </div>
+  
+
+  <script src="to_do_var 2.js"> </script>
+</body>
+</html>
