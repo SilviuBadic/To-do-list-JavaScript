@@ -34,6 +34,7 @@ You can check out the live version here:
 - Start and end dates options
 - One interactive green Add button to be pressed after choosing the actual to do thing and dates
 - One interactive red Delete button in case we want to delete one of the rows
+- The newKeyDown event which let us press Enter after typing the event, which will proceed the same as the green Add Button
 
 ## Lessons Learned
 
