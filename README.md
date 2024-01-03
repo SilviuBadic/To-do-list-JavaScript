@@ -1,10 +1,11 @@
 
 
 # To Do List
-This is one of my first project using JavaScript. I've tried to make a simple interactive To-Do-List by applying some JavaScript code. The main point of the application
-is to write a to do thing, to set the start and end dates, and then just add it to the next row just by pressing the interactive green Add button. 
+This is one of my first projects using JavaScript. I've tried to make a simple interactive To-Do-List by applying some JavaScript code. The main point of the application
+is to write a to do thing, to set the start and end dates, and then just add it to the next row by pressing the interactive green Add button. 
 
-In case we want to delete one of the rows we can use the other interactive red buttton.
+In case we want to delete one of the rows we can use the other interactive red Delete buttton. We can select the date by typing the date we want or just by pressing the small
+calendar icon and choose from there.
 
 
 ## Demo
@@ -29,23 +30,22 @@ You can check out the live version here:
 
 ## Features
 
-- YouTube Logo & Search button 
-- Menu on the left side
-- Layout easily displayed on every kind of device
-- Grid with flex boxes (pictures and description)
-
+- A placeholder to enter the to do things
+- Start and end dates options
+- One interactive green Add button to be pressed after choosing the actual to do thing and dates
+- One interactive red Delete button in case we want to delete one of the rows
 
 ## Lessons Learned
 
-As I mentioned in description, I managed to learn the first steps as a front end developer. I've improved my skills in HTML and CSS. 
+The main lesson was to understand how a function works, how to work with events, how to call a function when a specific button is clicked.
 
-A first challenge was to easily display my main titles into three columns and to create the sidebar. I manage to overcome this by using flexbox (display grid & display flexbox). Another challenge was to mantain a nice layout even when narrowing the screen or using a bigger device. I managed to overcome this by using and learning new things about @media.
-
-It was a good starting point to understand the basics of HTML and CSS.
+I've implemented the for loop, displayed some arrays, I've used DOM for the first time, in order to access and change the elements from the main HTML page.
 
 ## Optimizations
 
-It was a good starting point to understand the basics of HTML and CSS, and to start some new fun and interesting projects.
+It was a good starting point to understand some of the main concepts of JavaScript, to display some simple functions and give my page a bit of dynamism.
+
+
 
 
 ## Related
