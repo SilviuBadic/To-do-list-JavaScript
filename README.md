@@ -11,7 +11,7 @@ calendar icon and choose from there.
 ## Demo
 
 You can check out the live version here:
-[https://silviubadic.github.io/youtube-layout-remake-html-css/html/index.html](https://silviubadic.github.io/to-do-list-JavaScript/)
+[https://silviubadic.github.io/youtube-layout-remake-html-css/html/index.html](https://silviubadic.github.io/to-do-list-javascript/)
 
 ## Screenshots
 <img width="550" alt="4" src="https://github.com/SilviuBadic/to-do-list-JavaScript/assets/130041755/aa0c8710-82da-4d72-abd6-ac333af68717">
