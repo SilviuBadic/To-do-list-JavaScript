@@ -7,12 +7,14 @@
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: italic;
   text-align: center;
+  
 }
 
 .todo{
   padding: 15px;
   font-size: 25px;
   text-align: center;
+  color: green;
 }
 
 .datetime,
@@ -121,7 +123,7 @@
   background-color: red;
   cursor: pointer;
   color: white;
-  padding: 5px 10px;
+  padding: 5px;
   border: none;
   font-size: 12px;
   border-radius: 5px;
