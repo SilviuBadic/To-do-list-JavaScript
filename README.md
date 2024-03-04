@@ -24,7 +24,12 @@ You can check out the live version here:
 <br>
 <img width="1050" alt="6" src="https://github.com/SilviuBadic/to-do-list-JavaScript/assets/130041755/670db4cb-e6fa-496e-8536-fb5045587e70">
 
+<br>
+<br>
 
+
+
+https://github.com/SilviuBadic/to-do-list-javascript/assets/130041755/faea496a-e6b5-42b5-ae43-3f494ca910d9
 
 
 
